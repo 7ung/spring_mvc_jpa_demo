@@ -21,6 +21,7 @@ import org.springframework.stereotype.Service;
  *
  * @author Stevie
  */
+ // Không có xài.
 public class PokemonDAO {
 
     private final PokemonRepository repository;
